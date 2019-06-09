@@ -6,4 +6,4 @@ Una vez obtenidos los modelos los aplicamos a los datos de `./data/census_test.c
 
 La explicación de como se desarrollan los modelos estan en sendos cuadernos `census_clasificacion.ipynb` y `diamonds_regresion.ipynb`.
 
-*Nota: en los cuadernos, en los cuadernos, si se ejecutan totalmente, se genera un archivo con dos veces el id. Los he corregido. Los originales se encuentran en `./data/census_pred_con_id.csv` y `./data/diamonds_pred_con_id.csv`.*
+*Nota: Al ejecutar totalmente los cuadernos (tarea que es muy larga en el momento que comienza la optimización del Gradient Boosting y SVM), se genera un archivo con dos veces el id. Los he corregido de forma manual para adaptarlos al formato pedido por la practica. Si es necesario consultarlos, los originales se encuentran en `./data/census_pred_con_id.csv` y `./data/diamonds_pred_con_id.csv`.*
